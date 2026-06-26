@@ -1,5 +1,5 @@
 {
-  "version": "7.2.0",
+  "version": "7.2.1",
   "apk_url": "https://doktergoochel.github.io/mentalist-updates/mentalist_trainer_latest.apk",
-  "changelog": "Fixes problems in Kato count and clocking mode."
+  "changelog": "Fixes minor problems in Kato count and clocking mode."
 }
