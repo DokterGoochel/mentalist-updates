@@ -1,5 +1,5 @@
 {
-  "version": "7.3.1",
+  "version": "7.3.2",
   "apk_url": "https://doktergoochel.github.io/mentalist-updates/mentalist_trainer_latest.apk",
-  "changelog": "Running total toggle for value trainer. Update check optimization. Square improved."
+  "changelog": "Running total toggle for value trainer. Update check optimization. Square improved and minor fix."
 }
