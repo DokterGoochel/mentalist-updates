@@ -1,5 +1,5 @@
 {
-  "version": "7.4.2",
+  "version": "7.5.0",
   "apk_url": "https://doktergoochel.github.io/mentalist-updates/mentalist_trainer_latest.apk",
-  "changelog": "Added Aronson stack. Addes Odd-one-out stack training."
+  "changelog": "New card keyboard for stack suite. Feat. Magic square, Pi / Pi Max, Mnemonica / Reford / Aronson, Card Clocking."
 }
